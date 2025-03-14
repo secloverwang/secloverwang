@@ -1,49 +1,30 @@
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-
-
-# Lina  GitHub Profile 
-## _Intro_
+### Hi there 👋 This is Siberian Wolf！✨ 
  
  
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/secloverwang/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](chinawangwang975@gmail.com)
  
-Website:zhanglina94.github.io
-- About
-- Projects
-- Blog
-- 
-[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=secloverwang)](https://github.com/anuraghazra/github-readme-stats)
+Welcome to my GitHub page! I am a Siberian Wolf and I am currently working as a cybersecurity manager!
  
- 
-**AI!**
-
-
-### Hi there 👋 This is Lina ！✨ 
- 
- 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zhanglina94)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lina-zhang-58440b101/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](zhanglina249@gmail.com)
- 
-Welcome to my Github page! I am secloverwang and I am currently Learning NLP and RL!  
- 
-
+<img align="right" alt="img" src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="50%" height="auto" />
  
 #### 🌱 Things I am currently working on 🌱 : 
-- Taking online courses about Data Science and Machine Learning 
-- [My website](https://zhanglina94.github.io) 🚀 *coming soon*
+- Formulate and implement internal network security business standards and processes for the enterprise!
+- Track the foreword network security incidents and situations!
+- Follow up on the latest security loopholes in your spare time!
  
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
-- Chat GPT
-- Stable Diffusion
-- Image generation
-- Layout2image
-- pix2pix
-#### 🌻 I am studying 🌻
-- IELTS
-- French
-- German
+- Data security
+- Industrial control safety
+- Supply Chain Security
+
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Exercising 3 days a week
+- Obtain a Cybersecurity Professional Certificate
+
 #### :computer: Programming languages and tools :computer: : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=secloverwang&show_icons=true&hide_border=true" />
@@ -59,5 +40,3 @@ Welcome to my Github page! I am secloverwang and I am currently Learning NLP and
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
 </p>
-<sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/zhanglina94/zhanglina94/img/pic.jpg)</sub>
-If you want to know more, please refer to the my [website](https://zhanglina94.github.io).
