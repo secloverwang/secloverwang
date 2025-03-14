@@ -2,7 +2,7 @@
  
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/secloverwang/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](chinawangwang975@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chinawangwang975@gmail.com)
  
 Welcome to my GitHub page! I am Siberian Wolf, and I am currently serving as a network security project manager in a certain industrial control industry in China!
  
