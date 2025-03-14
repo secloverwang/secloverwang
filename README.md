@@ -1,4 +1,4 @@
-### Hi there 👋 This is Siberian Wolf！✨ 
+![image](https://github.com/user-attachments/assets/29c96235-7b59-4ad9-985a-85aa3a6c2831)### Hi there 👋 This is Siberian Wolf！✨ 
  
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/secloverwang/)
@@ -6,7 +6,8 @@
  
 Welcome to my GitHub page! I am a Siberian Wolf and I am currently working as a cybersecurity manager!
  
-<img align="right" alt="img" src="https://media.istockphoto.com/id/1972286424/photo/digital-security-and-privacy-background-cyber-and-crypto-security-shield-on-futuristic-screen.jpg?s=2048x2048&w=is&k=20&c=1Jn-fCh-avCdjpcyVCECGLOC6McBQ1k1OBrkxwFr-1U=" width="50%" height="auto" />
+<img align="right" alt="img" src="![pexels-anete-lusina-5240544](https://github.com/user-attachments/assets/fec83f1f-8cde-4c0e-8b75-313e2dcaaab9)
+" width="50%" height="auto" />
              
 #### 🌱 Things I am currently working on 🌱 : 
 - Formulate and implement internal network security business standards and processes for the enterprise!
