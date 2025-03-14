@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/secloverwang/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](chinawangwang975@gmail.com)
  
-Welcome to my GitHub page! I am a Siberian Wolf and I am currently working as a cybersecurity manager!
+Welcome to my GitHub page! I am Siberian Wolf, and I am currently serving as a network security project manager in a certain industrial control industry in China!
  
 <img align="right" alt="img" src="https://media.istockphoto.com/id/1972286424/photo/digital-security-and-privacy-background-cyber-and-crypto-security-shield-on-futuristic-screen.jpg?s=2048x2048&w=is&k=20&c=1Jn-fCh-avCdjpcyVCECGLOC6McBQ1k1OBrkxwFr-1U=" width="50%" height="auto" />
              
