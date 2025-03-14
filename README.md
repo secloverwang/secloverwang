@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/29c96235-7b59-4ad9-985a-85aa3a6c2831)### Hi there 👋 This is Siberian Wolf！✨ 
+### Hi there 👋 This is Siberian Wolf！✨ 
  
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/secloverwang/)
@@ -6,7 +6,7 @@
  
 Welcome to my GitHub page! I am a Siberian Wolf and I am currently working as a cybersecurity manager!
  
-<img align="right" alt="img" src="![pexels-anete-lusina-5240544](https://github.com/user-attachments/assets/fec83f1f-8cde-4c0e-8b75-313e2dcaaab9)
+<img align="right" alt="img" src="![pexels-anete-lusina-5240544](https://github.com/user-attachments/assets/1ebd6407-3668-4bd2-b1b7-8d390c61ef19)
 " width="50%" height="auto" />
              
 #### 🌱 Things I am currently working on 🌱 : 
