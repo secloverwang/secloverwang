@@ -8,6 +8,8 @@ Welcome to my GitHub page! I am a Siberian Wolf and I am currently working as a 
  
 <img align="right" alt="img" src="![pexels-anete-lusina-5240544](https://github.com/user-attachments/assets/1ebd6407-3668-4bd2-b1b7-8d390c61ef19)
 " width="50%" height="auto" />
+![image](https://github.com/user-attachments/assets/1abbe682-992b-4279-ba8e-667d39c49172)
+
              
 #### 🌱 Things I am currently working on 🌱 : 
 - Formulate and implement internal network security business standards and processes for the enterprise!
