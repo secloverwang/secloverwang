@@ -6,7 +6,7 @@
  
 Welcome to my GitHub page! I am a Siberian Wolf and I am currently working as a cybersecurity manager!
  
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://media.istockphoto.com/id/1972286424/photo/digital-security-and-privacy-background-cyber-and-crypto-security-shield-on-futuristic-screen.jpg?s=2048x2048&w=is&k=20&c=1Jn-fCh-avCdjpcyVCECGLOC6McBQ1k1OBrkxwFr-1U=" width="50%" height="auto" />
              
 #### 🌱 Things I am currently working on 🌱 : 
 - Formulate and implement internal network security business standards and processes for the enterprise!
