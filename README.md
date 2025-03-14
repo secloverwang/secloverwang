@@ -24,11 +24,9 @@ Welcome to my GitHub page! I am a Siberian Wolf and I am currently working as a 
 - Waking up earlier to make good use of the day
 - Exercising 3 days a week
 - Obtain a Cybersecurity Professional Certificate
-
-#### :computer: Programming languages and tools :
 <p>
     <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=secloverwang&show_icons=true&hide_border=true" />
- 
+#### :computer: Programming languages and tools :
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
