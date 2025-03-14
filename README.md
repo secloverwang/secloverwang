@@ -6,7 +6,7 @@
  
 Welcome to my GitHub page! I am Siberian Wolf, and I am currently serving as a network security project manager in a certain industrial control industry in China!
  
-<img align="right" alt="img" src="https://media.istockphoto.com/id/1972286424/photo/digital-security-and-privacy-background-cyber-and-crypto-security-shield-on-futuristic-screen.jpg?s=2048x2048&w=is&k=20&c=1Jn-fCh-avCdjpcyVCECGLOC6McBQ1k1OBrkxwFr-1U=" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/secloverwang/secloverwang/blob/main/pexels-ron-lach-9783812.jpg" width="50%" height="auto" />
              
 #### 🌱 Things I am currently working on 🌱 : 
 - Formulate and implement internal network security business standards and processes for the enterprise!
