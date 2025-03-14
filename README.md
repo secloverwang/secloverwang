@@ -42,4 +42,4 @@ Welcome to my GitHub page! I am Siberian Wolf, and I am currently serving as a n
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
  
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<sub>Credits to: <br/>[Pexels](https://www.pexels.com) for the wonderfull [picture](https://github.com/secloverwang/secloverwang/blob/main/pexels-ron-lach-9783812.jpg)</sub>
